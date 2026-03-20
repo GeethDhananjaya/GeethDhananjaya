@@ -19,7 +19,10 @@
 ### 💻 Programming  
 - Java  
 - Python  
-- C++  
+- C++
+- css
+- html
+- react  
 
 ### 📊 Data & Engineering  
 - Machine Learning  
