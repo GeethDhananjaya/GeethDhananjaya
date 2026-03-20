@@ -1,25 +1,101 @@
-<h1 align="center">Hi 👋, I'm Geeth Dhananjaya</h1>
-<h3 align="center">Undergraduate Data Science student </h3>
+# 👋 Hi there, I'm Geeth Isuru  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geethdhananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="geethdhananjaya" /> </p>
+🎓 Undergraduate Data Science Student  
+🚀 Aspiring Data Engineer  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🌱 I’m currently learning **java**
+## 🚀 About Me  
+- 🎓 Currently studying **Data Science**  
+- 📚 Currently learning **Data Engineering**  
+- 💡 Interested in **Data Engineering, Machine Learning, and Data Analytics**  
+- 🔭 Working on academic & personal projects  
+- 🌱 Continuously improving my programming and data skills  
 
-- 💬 Ask me about **java**
+---
 
-- 📫 How to reach me **sampathgeeth34@gmail.com**
+## 🛠️ Skills & Technologies  
 
-- ⚡ Fun fact **Called me Geeth**
+### 💻 Programming  
+- Java  
+- Python  
+- C++  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/geeth dananjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geeth dananjaya" height="30" width="40" /></a>
-<a href="https://instagram.com/geeth dananjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geeth dananjaya" height="30" width="40" /></a>
-</p>
+### 📊 Data & Engineering  
+- Machine Learning  
+- Data Analysis  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+### 🗄️ Databases  
+- SQL  
+- PostgreSQL  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethdhananjaya&" alt="geethdhananjaya" /></p>
+### ⚙️ Tools & IDEs  
+- PyCharm  
+- IntelliJ IDEA  
+- VS Code  
+- Git & GitHub  
+
+---
+
+## 📂 Projects  
+
+### 🔹 Data Engineering Projects  
+
+#### 🛠️ ETL Pipeline Project  
+- Built a simple ETL (Extract, Transform, Load) pipeline using **Python** and **SQL**  
+- Extracted data from CSV files  
+- Cleaned and transformed data using Pandas  
+- Loaded processed data into **PostgreSQL**  
+
+#### 📊 Data Cleaning & Analysis  
+- Performed data cleaning using **Python (Pandas, NumPy)**  
+- Handled missing values and duplicates  
+- Conducted basic data analysis and visualization  
+
+#### 📈 Data Analysis Dashboard *(Coming Soon)*  
+- Planning to build a dashboard for data visualization  
+- Tools: Python / SQL / Power BI or Matplotlib  
+
+---
+
+### 🔹 Other Projects  
+
+#### 🎟️ Event Ticket Booking System  
+- Developed using **Java**  
+- Handles booking operations and data management  
+- Uses file handling instead of database  
+
+---
+
+## 🌍 Languages  
+- Sinhala  
+- Tamil  
+- English  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me  
+- LinkedIn: https://www.linkedin.com/in/geeth-dhananjaya-15a4aa349  
+- Email: sampathgeeth34@gmail.com  
+
+---
+
+## 🎯 Future Goals  
+- Learn **Apache Spark & Big Data tools**  
+- Build real-world **data pipelines**  
+- Contribute to open-source projects  
+
+---
+
+## ⚡ Fun Fact  
+I enjoy working with data and building efficient data pipelines 🚀  
