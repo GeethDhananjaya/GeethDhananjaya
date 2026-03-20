@@ -75,12 +75,12 @@
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeethDhananjaya&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeethDhananjaya&layout=compact&theme=radical)
 
 ---
 
