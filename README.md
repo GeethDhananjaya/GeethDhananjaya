@@ -55,11 +55,7 @@
 - Handled missing values and duplicates  
 - Conducted basic data analysis and visualization  
 
-#### 📈 Data Analysis Dashboard *(Coming Soon)*  
-- Planning to build a dashboard for data visualization  
-- Tools: Python / SQL / Power BI or Matplotlib  
 
----
 
 ### 🔹 Other Projects  
 
